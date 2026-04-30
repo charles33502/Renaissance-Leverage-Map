@@ -82,9 +82,8 @@ This repository is maintained as a timestamped public record of the framework's 
 
 ## Version
 
-Current version: v0.2.0  
-Initial public archived version: v0.1  
-Date: 2026-04-30
+Current version: v0.2.0 (2026-04-30)  
+Initial public archived version: v0.1.1 (2026-04-30)   
 
 For detailed version history, see [`framework.md`](./framework.md#11-version-history--版本紀錄).
 
