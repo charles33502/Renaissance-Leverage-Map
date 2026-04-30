@@ -312,10 +312,10 @@ This framework can be used for:
 
 ## 11. Version History / 版本紀錄
 
-### v0.2.0 — Dynamic Potential Evaluation Extension
+### v0.2.0 — Dynamic Potential Evaluation as a Possible Application
 Date: 2026-05-01
 
-Expanded RLM from an AI-era leverage mapping framework into a dynamic potential evaluation framework.
+Clarified that RLM may be extended or applied to dynamic potential evaluation in future versions.
 
 Changes:
 - Added dynamic potential evaluation as a possible application direction.
