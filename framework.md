@@ -314,7 +314,7 @@ Date: 2026-05-01
 Expanded RLM from an AI-era leverage mapping framework into a dynamic potential evaluation framework.
 
 Changes:
-- Added the concept of dynamic potential evaluation.
+- Added dynamic potential evaluation as a possible extension.
 - Clarified that RLM may be used to explore which underlying capabilities could become more valuable under a changing environment.
 - Added informal Chinese shorthand: 復興表.
 - Added Zenodo DOI citation and badge.
