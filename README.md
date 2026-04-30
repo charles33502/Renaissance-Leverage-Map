@@ -1,10 +1,10 @@
-# Renaissance Leverage Map
+# Renaissance Leverage Map (RLM)
 # 文藝復興槓桿地圖
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19915464.svg)](https://doi.org/10.5281/zenodo.19915464)
 
-**Renaissance Leverage Map** is a four-column framework for identifying AI-era leverage points: where AI lowers execution costs and makes classical capabilities newly scalable.
+**Renaissance Leverage Map (RLM)**, also known in Chinese as **文藝復興槓桿地圖** and informally as **復興表**, is a four-column framework for identifying AI-era leverage points: where AI lowers execution costs and makes classical capabilities newly scalable.
 
-**文藝復興槓桿地圖**是一個四欄分析框架，用來辨識 AI 時代中，哪些古典能力因為執行成本下降，而重新變成高槓桿能力。
+**Renaissance Leverage Map（RLM，文藝復興槓桿地圖）**，中文可簡稱為**復興表**，是一個四欄分析框架，用來辨識 AI 時代中，哪些古典能力因為執行成本下降，而重新變成高槓桿能力。
 
 ---
 

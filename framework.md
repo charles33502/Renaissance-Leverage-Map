@@ -1,4 +1,4 @@
-# Renaissance Leverage Map
+# Renaissance Leverage Map (RLM)
 # 文藝復興槓桿地圖
 
 ## 1. Definition / 定義
