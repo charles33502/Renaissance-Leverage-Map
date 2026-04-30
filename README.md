@@ -1,5 +1,6 @@
 # Renaissance Leverage Map
 # 文藝復興槓桿地圖
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19915464.svg)](https://doi.org/10.5281/zenodo.19915464)
 
 **Renaissance Leverage Map** is a four-column framework for identifying AI-era leverage points: where AI lowers execution costs and makes classical capabilities newly scalable.
 
