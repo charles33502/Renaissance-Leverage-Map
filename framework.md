@@ -265,19 +265,23 @@ SWOT 問的是：
 > 因為成本結構改變，什麼東西重新變得有價值？
 
 ---
-## 9. Possible Extension: Dynamic Potential Evaluation / 可能延伸：動態潛力評估
+## 9. Possible Application: Dynamic Potential Evaluation / 可能應用方向：動態潛力評估
 
-RLM may also be extended into a dynamic potential evaluation tool.
+RLM may also be applied as a dynamic potential evaluation tool in future versions.
 
-Instead of asking only whether a person, skill, project, or strategy is strong now, it asks:
+In this extended use case, instead of asking only whether a person, skill, project, or strategy is strong now, RLM asks:
 
 > Which underlying capabilities may become more valuable under a changing environment?
 
-RLM 未來也可以延伸為一種動態潛力評估工具。
+This is not the primary focus of v0.2.0, but it is included as a possible application direction.
 
-它不只問一個人、一項技能、一個專案或一個策略現在強不強，而是問：
+RLM 未來也可以被應用為一種動態潛力評估工具。
+
+在這個延伸用法中，它不只問一個人、一項技能、一個專案或一個策略現在強不強，而是問：
 
 > 哪些底層能力，可能會在環境變動下變得更有價值？
+
+這不是 v0.2.0 的主要功能，而是作為可能應用方向先行記錄。
 
 
 ---
@@ -314,8 +318,8 @@ Date: 2026-05-01
 Expanded RLM from an AI-era leverage mapping framework into a dynamic potential evaluation framework.
 
 Changes:
-- Added dynamic potential evaluation as a possible extension.
-- Clarified that RLM may be used to explore which underlying capabilities could become more valuable under a changing environment.
+- Added dynamic potential evaluation as a possible application direction.
+- Clarified that the primary focus of RLM remains mapping AI-era / post-revolution leverage points.
 - Added informal Chinese shorthand: 復興表.
 - Added Zenodo DOI citation and badge.
 
