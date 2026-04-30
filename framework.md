@@ -319,7 +319,7 @@ This framework can be used for:
 ## 11. Version History / 版本紀錄
 
 ### v0.2.0 — Dynamic Potential Evaluation Extension
-Date: 2026-05-1
+Date: 2026-05-01
 
 Expanded RLM from an AI-era leverage mapping framework into a dynamic potential evaluation framework.
 
@@ -329,6 +329,8 @@ Changes:
 - Added application contexts such as talent scouting, graduate school application review, career planning, research direction selection, and AI-era capability investment.
 - Added informal Chinese shorthand: 復興表.
 - Added Zenodo DOI citation and badge.
+
+DOI: https://doi.org/10.5281/zenodo.19915463
 
 ---
 
