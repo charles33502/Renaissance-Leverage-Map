@@ -292,7 +292,7 @@ This framework can be used for:
 
 ## 10. Version History / 版本紀錄
 
-### v0.1 — Initial Public Formulation
+### v0.1.1 — Initial Public Formulation
 Date: 2026-04-30
 
 Initial formulation of the Renaissance Leverage Map as a four-column framework for identifying AI-era leverage points where classical capabilities become newly scalable.
