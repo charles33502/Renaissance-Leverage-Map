@@ -81,7 +81,7 @@ This repository is maintained as a timestamped public record of the framework's 
 
 ## Version
 
-Initial public version: v0.1  
+Initial public version: v0.1.1  
 Date: 2026-04-30
 
 ---
